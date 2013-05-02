@@ -1,0 +1,5 @@
+{
+  "project_id" : "vpu-SpecificTest",
+  "conduit_uri" : "http://phabricator.aiai.local/",
+  "arc.land.onto.default" : "SelectSpecificTest"
+}
