@@ -4,6 +4,7 @@ $root = dirname(dirname(__DIR__));
 
 $config = array(
     /* Required */
+    // Lets add some stuff just to test!
 
     // The directory where PEAR is located
     'pear_path'      => '/usr/share/pear',
